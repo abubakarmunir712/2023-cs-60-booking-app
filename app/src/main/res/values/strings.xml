@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Smart Appointment Booking</string>
+    <string name="welcome_splash">Welcome to the Appointment Booking App</string>
+    <string name="welcome_main">Welcome to Smart Appointment Booking</string>
+    <string name="app_description">Book your appointments quickly and easily with our intuitive booking application. Get started by clicking the button below.</string>
+    <string name="btn_book_appointment">Book Appointment</string>
+    <string name="title_book_appointment">Book Your Appointment</string>
+    <string name="hint_full_name">Patient / User Full Name</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_email_address">Email Address</string>
+    <string name="prompt_appointment_type">Select Appointment Type</string>
+    <string name="hint_appointment_date">Select Appointment Date</string>
+    <string name="hint_appointment_time">Select Appointment Time</string>
+    <string name="label_gender">Select Gender:</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="checkbox_terms">Accept Terms and Conditions</string>
+    <string name="btn_confirm_booking">Confirm Booking</string>
+    
+    <string name="error_empty">This field is required</string>
+    <string name="error_email">Enter a valid email address</string>
+    <string name="error_terms">Please accept the Terms and Conditions</string>
+    <string name="error_date">Please select a date</string>
+    <string name="error_time">Please select a time</string>
+    <string name="error_gender">Please select a gender</string>
+    
+    <string name="title_confirmation">Appointment Summary</string>
+    <string name="label_full_name">Full Name:</string>
+    <string name="label_phone_number">Phone Number:</string>
+    <string name="label_email_address">Email Address:</string>
+    <string name="label_appointment_type">Appointment Type:</string>
+    <string name="label_appointment_date">Appointment Date:</string>
+    <string name="label_appointment_time">Appointment Time:</string>
+    
+    <string-array name="appointment_types">
+        <item>Doctor Consultation</item>
+        <item>Dentist Appointment</item>
+        <item>Eye Specialist</item>
+        <item>Skin Specialist</item>
+        <item>General Checkup</item>
+    </string-array>
+</resources>
